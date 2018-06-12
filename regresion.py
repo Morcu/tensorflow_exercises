@@ -7,9 +7,8 @@ def main():
     linear_regresion(x_data,y_data)
 
 
-def generate_points(point_num):
+def generate_points(num_points):
     """Function that generates random points to make as an start point for the regresion"""
-    num_points = point_num
     points = []
     #Randomize numbers for the regresion
     for i in range(num_points):

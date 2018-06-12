@@ -10,4 +10,4 @@ To be able to execute the exercise you will need the modules listed in _requirem
 If you want to install them easyli, use __pip install -r requirements.txt__
 
 To execute the exercises use:
-__python3.6 _name_of_file.py_
+__python3.6 _name__of__file.py__
